@@ -1,6 +1,6 @@
 # Bonjour, je suis Omer 😀
 
-Un développeur passionné en pleine immersion dans le monde du code.
+Un développeur passionné qui en apprend chaque jours et qui apprécie ça !
 
 🔭 **Actuellement**, je travaille sur divers projets personnels.
 
