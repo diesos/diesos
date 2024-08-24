@@ -10,7 +10,7 @@ Un développeur passionné qui en apprend chaque jours et qui apprécie ça !
 
 📫 **Comment me contacter** : [ozturk@live.fr](mailto:ozturk@live.fr)
 
-## Mes Projets
+## Mes "Side Projects"
 
 | Projet | Description |
 |--------|-------------|
