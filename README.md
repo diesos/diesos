@@ -12,17 +12,20 @@ Un développeur passionné qui en apprend chaque jours et qui apprécie ça !
 
 ## Mes "Side Projects"
 
-| Projet | Description |
-|--------|-------------|
-| [Liste de course](http://diesos-shopmate.netlify.app/) | Application PWA pour iOS/Android, avec backend sur Firebase pour gérer vos listes de courses. |
-| [Livre d'or](http://diesos-endorsment.netlify.app/) | Livre d'or en ligne connecté à une base de données Firebase, également disponible en PWA pour iOS/Android. |
-| [Générateur de mot de passe](https://diesos-password-generator.netlify.app/) | Outil robuste pour créer des mots de passe sécurisés. |
-| [Jeu de Blackjack](https://diesos-blackjack.netlify.app/) | Jeu simple de Blackjack, développé en HTML, CSS et JavaScript. |
-| [Convertisseur d'unités](https://diesos-unitconverter.netlify.app/) | Convertisseur d'unités simple utilisant JS, HTML et CSS. |
-| [Guide de mes voyages](https://diesos-travel.netlify.app/) | Un guide interactif de mes voyages. |
-| [Clone Airbnb](https://diesos-bnbproject.netlify.app/) | Clone d'Airbnb pour l'expérience utilisateur (le site peut être temporairement hors ligne). |
-| [Carte de visite digitale](https://diesos-resume.netlify.app/) | Ma carte de visite numérique en ligne. |
-| [Générateur de mèmes](https://diesos-meme-generator.netlify.app/) | Générateur de mèmes avec la possibilité d'ajouter vos propres textes. |
-| [Mon portfolio](https://louvetoo-front.netlify.app/) | Portfolio de gestion de crèche avec mise à jour informatif envoyée aux parents. |
-| [Extension Chrome "Link Saver"](https://github.com/diesos/Chrome-Link-Saver) | L'extension Chrome "Link Saver" permet aux utilisateurs d'enregistrer des liens directement dans l'extension. |
+## Mes Projets
+
+| Projet                                  | GitHub                                                                                      | Live Demo                                          |
+|-----------------------------------------|---------------------------------------------------------------------------------------------|---------------------------------------------------|
+| Liste de course                         | [GitHub](https://github.com/diesos/ShopMate-Mobile-App)                                      | [Netlify](http://diesos-shopmate.netlify.app/)     |
+| Livre d'or                              | [GitHub](https://github.com/diesos/Endorsement-app)                                          | [Netlify](http://diesos-endorsment.netlify.app/)   |
+| Générateur de mot de passe              | [GitHub](https://github.com/diesos/Password-Generator)                                       | [Netlify](https://diesos-password-generator.netlify.app/) |
+| Jeu de Blackjack                        | [GitHub](https://github.com/diesos/BlackJack-Game)                                           | [Netlify](https://diesos-blackjack.netlify.app/)   |
+| Convertisseur d'unités                  | [GitHub](https://github.com/diesos/unit-converter)                                           | [Netlify](https://diesos-unitconverter.netlify.app/) |
+| Guide de mes voyages                    | [GitHub](https://github.com/diesos/Travel-Journey)                                           | [Netlify](https://diesos-travel.netlify.app/)      |
+| Clone Airbnb                            | [GitHub](https://github.com/diesos/AirBnb-Experience)                                        | [Netlify](https://diesos-bnbproject.netlify.app/)  |
+| Carte de visite digitale                | [GitHub](https://github.com/diesos/resume-v2)                                                | [Netlify](https://diesos-resume.netlify.app/)      |
+| Générateur de mèmes                     | [GitHub](https://github.com/diesos/Meme-Generator)                                           | [Netlify](https://diesos-meme-generator.netlify.app/) |
+| Mon portfolio                           | [GitHub](https://github.com/diesos/Louvetoo_front)                                           | [Netlify](https://louvetoo-front.netlify.app/)     |
+| Extension Chrome "Link Saver"           | [GitHub](https://github.com/diesos/Chrome-Link-Saver)                                        | N/A                                               |
+
 
