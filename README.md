@@ -12,8 +12,6 @@ Un développeur passionné qui en apprend chaque jours et qui apprécie ça !
 
 ## Mes "Side Projects"
 
-## Mes Projets
-
 | Projet                                  | GitHub                                                                                      | Live Demo                                          |
 |-----------------------------------------|---------------------------------------------------------------------------------------------|---------------------------------------------------|
 | Liste de course                         | [GitHub](https://github.com/diesos/ShopMate-Mobile-App)                                      | [Netlify](http://diesos-shopmate.netlify.app/)     |
