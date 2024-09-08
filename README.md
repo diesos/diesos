@@ -23,7 +23,7 @@ Un développeur passionné qui en apprend chaque jours et qui apprécie ça !
 | Clone Airbnb                            | [GitHub](https://github.com/diesos/AirBnb-Experience)                                        | [Netlify](https://diesos-bnbproject.netlify.app/)  |
 | Carte de visite digitale                | [GitHub](https://github.com/diesos/resume-v2)                                                | [Netlify](https://diesos-resume.netlify.app/)      |
 | Générateur de mèmes                     | [GitHub](https://github.com/diesos/Meme-Generator)                                           | [Netlify](https://diesos-meme-generator.netlify.app/) |
-| Mon Projet portfolio (Louvetoo Appli de crèche)      | [GitHub]((https://github.com/diesos/Louvetoo_V2))                                            | [Netlify](https://louvetoo-front.netlify.app/)     |
+| Mon Projet portfolio (Louvetoo Appli de crèche)      | [GitHub](https://github.com/diesos/Louvetoo_V2)                                            | [Netlify](https://louvetoo-front.netlify.app/)     |
 | Extension Chrome "Link Saver"           | [GitHub](https://github.com/diesos/Chrome-Link-Saver)                                        | N/A                                               |
 
 
