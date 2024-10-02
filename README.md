@@ -6,9 +6,10 @@ Un développeur passionné qui en apprend chaque jours et qui apprécie ça !
 
 🌱 **En ce moment**, j'approfondis mes connaissances en React pour me préparer à NextJS.
 
-👯 **Mon objectif**, d'ici 4 ans, est de devenir un professionnel reconnu pour mon travail et apprécié par mes pairs 💪
+👯 **Mon objectif**, Dès septembre 2024, rejoindre une entreprise pour mon bachelor Concepteur Développeur d'Applications 💪
 
 📫 **Comment me contacter** : [ozturk@live.fr](mailto:ozturk@live.fr)
+💻 **Discutons lors d'une visioconférence, réservez un créneau** : [Cal.com](https://cal.com/OmerOzturk)
 
 ## Mes "Side Projects"
 
