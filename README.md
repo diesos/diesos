@@ -9,6 +9,7 @@ Un développeur passionné qui en apprend chaque jours et qui apprécie ça !
 👯 **Mon objectif**, Dès septembre 2024, rejoindre une entreprise pour mon bachelor Concepteur Développeur d'Applications 💪
 
 📫 **Comment me contacter** : [ozturk@live.fr](mailto:ozturk@live.fr)
+
 💻 **Discutons lors d'une visioconférence, réservez un créneau** : [Cal.com](https://cal.com/OmerOzturk)
 
 ## Mes "Side Projects"
