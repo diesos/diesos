@@ -17,6 +17,7 @@ Un développeur passionné qui en apprend chaque jours et qui apprécie ça !
 | Projet                                  | GitHub                                                                                      | Live Demo                                          |
 |-----------------------------------------|---------------------------------------------------------------------------------------------|---------------------------------------------------|
 | **Mon Projet portfolio** (Louvetoo Appli de crèche)      | [GitHub](https://github.com/diesos/Louvetoo_V2)                                            | [Netlify](https://louvetoo-front.netlify.app/)     |
+| Sticky Note (NextJs, TypeScript, NoSql)                       | [GitHub](https://github.com/diesos/nextjs)                                      | [Netlify]([http://diesos-shopmate.netlify.app/](https://diesos-nextnote.netlify.app/))     |
 | Liste de course                         | [GitHub](https://github.com/diesos/ShopMate-Mobile-App)                                      | [Netlify](http://diesos-shopmate.netlify.app/)     |
 | Livre d'or                              | [GitHub](https://github.com/diesos/Endorsement-app)                                          | [Netlify](http://diesos-endorsment.netlify.app/)   |
 | Générateur de mot de passe              | [GitHub](https://github.com/diesos/Password-Generator)                                       | [Netlify](https://diesos-password-generator.netlify.app/) |
