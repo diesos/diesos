@@ -1,12 +1,12 @@
 # Bonjour, je suis Omer 😀
 
-Un développeur passionné qui en apprend chaque jours et qui apprécie ça !
+Un développeur qui en apprend chaque jours et qui apprécie ça !
 
-🔭 **Actuellement**, je travaille sur divers projets personnels.
+🔭 **Actuellement**, je travaille chez We Display.
 
-🌱 **En ce moment**, j'approfondis mes connaissances en React pour me préparer à NextJS.
+🌱 **En ce moment**, Perso: j'approfondis mes connaissances en React pour me préparer à NextJS. Pro: VueJS, Php Symfony
 
-👯 **Mon objectif**, Dès septembre 2024, rejoindre une entreprise pour mon bachelor Concepteur Développeur d'Applications 💪
+👯 **Mon objectif**, Continuer de contribuer pour mon entreprise et d'apporter ma plus-value pour répondre aux problématiques de nos clients. 💪
 
 📫 **Comment me contacter** : [ozturk@live.fr](mailto:ozturk@live.fr)
 
